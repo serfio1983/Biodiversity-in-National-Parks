@@ -1,0 +1,2 @@
+# Biodiversity in National Parks
+ This project interprets data from the National Park Service on endangered species in different parks. An analysis of data on the conservation status of these species is carried out and it is investigated if there are patterns or themes in the types of species that are in danger of extinction. During this project, you analyze, clean, and plot data, as well as pose questions and try to answer them in a meaningful way.
